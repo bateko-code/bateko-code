@@ -2,7 +2,7 @@
 <h1 align="center">Hi ✌🏿, I'm Bateko</h1>
 <h3 align="center">A passionate future fullstack developer from France</h3>
 
-<img align ="right" alt"coding" width="400" src="https://user-images.githubusercontent.com/77939696/156893337-ae1d520d-c5d3-4b29-81aa-7c1bc50d08fc.gif" />
+<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/77939696/156893337-ae1d520d-c5d3-4b29-81aa-7c1bc50d08fc.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bateko-code&label=Profile%20views&color=0e75b6&style=flat" alt="bateko-code" /> </p>
 
