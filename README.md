@@ -2,20 +2,18 @@
 
 
 <h1 align="center">Hi ✌🏿, I'm Bateko</h1>
-<h3 align="center">A passionate future fullstack developer from France</h3>
+
+## 👨🏾‍💻 I'm a passionate future Full Stack Developer based in France !
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/77939696/156893337-ae1d520d-c5d3-4b29-81aa-7c1bc50d08fc.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bateko-code&label=Profile%20views&color=0e75b6&style=flat" alt="bateko-code" /> </p>
 
 - 🔭 I’m currently working on ** my Portfolio**!
-
-
+ - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🌱 I’m currently learning **Python , Node.js**
-
 - ⚡ Fun fact **i was an NBA assistant coach for the utah jazz**
-<br>
-<br>
+
 
 ### Connect with me:
 
@@ -23,7 +21,6 @@
 [![Website](https://img.shields.io/badge/Follow%20%40BATEKO-CODE--&?style=for-the-badge&logo=codepen)](https://codepen.io/bateko-code)
 [![Twitter Follow](https://img.shields.io/twitter/follow/techie_teko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftechie_teko&screen_name=techie_teko)
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40bateko-francisco-dev&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbateko-francisco-dev%2F)](https://www.linkedin.com/in/bateko-francisco-dev/)
-
 
 
 <br />
