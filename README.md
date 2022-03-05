@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bateko-code&label=Profile%20views&color=0e75b6&style=flat" alt="bateko-code" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**!
+- 🔭 I’m currently working on ** my Portfolio**!
 
 
 - 🌱 I’m currently learning **Python , Node.js**
