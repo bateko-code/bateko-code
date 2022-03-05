@@ -1,3 +1,5 @@
+![Screenshot 2022-03-05 at 18 24 20](https://user-images.githubusercontent.com/77939696/156900266-298ee971-2b18-43d4-bc2a-bc7eb8088598.png)
+
 
 <h1 align="center">Hi ✌🏿, I'm Bateko</h1>
 <h3 align="center">A passionate future fullstack developer from France</h3>
@@ -56,17 +58,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bateko-code&layout=compact&theme=radical)](https://github.com/bateko-code/github-readme-stats)
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=bateko-code&theme=radical">
-
-<!--START_SECTION:waka-->
-
-```text
-Vue.js       23 hrs 55 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀   89.15 %
-TypeScript   2 hrs 31 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.43 %
-JSON         19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.20 %
-JavaScript   3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.22 %
-```
-
-<!--END_SECTION:waka-->
 
 ---
 
