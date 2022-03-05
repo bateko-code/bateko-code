@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi ✌🏿, I'm Bateko</h1>
 <h3 align="center">A passionate future fullstack developer from France</h3>
-<img align="right" alt="Coding" width="400" src=[Hnet-image](https://user-images.githubusercontent.com/77939696/156893196-02a1e4c7-1e85-476f-a96b-97b2b979313f.gif)
+
+[!Hnet-image](https://user-images.githubusercontent.com/77939696/156893337-ae1d520d-c5d3-4b29-81aa-7c1bc50d08fc.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bateko-code&label=Profile%20views&color=0e75b6&style=flat" alt="bateko-code" /> </p>
 
 - 🔭 I’m currently working on **Portfolio**!
