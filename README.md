@@ -1,10 +1,11 @@
 
 <h1 align="center">Hi ✌🏿, I'm Bateko</h1>
 <h3 align="center">A passionate future fullstack developer from France</h3>
-<img align="right" alt="Coding" width="400" src="https://hnet.com/video-to-gif/viewimage/20220305-04-NsGiFIwlCdeg4W2n-PmcwRQ-HNET"
+<img align="right" alt="Coding" width="400" src=[Hnet-image](https://user-images.githubusercontent.com/77939696/156893196-02a1e4c7-1e85-476f-a96b-97b2b979313f.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bateko-code&label=Profile%20views&color=0e75b6&style=flat" alt="bateko-code" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Portfolio**!
+
 
 - 🌱 I’m currently learning **Python , Node.js**
 
