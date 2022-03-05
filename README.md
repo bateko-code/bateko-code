@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, I'm Bateko ✌🏿
+### Hi there , I'm Bateko ✌🏿
 
 
 
