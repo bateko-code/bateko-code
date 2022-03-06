@@ -1,4 +1,4 @@
-<img width="640" alt="bannerd-dev" src="https://user-images.githubusercontent.com/77939696/156935651-4c35bdf6-604b-4782-9671-05ba3b6db5a0.png">
+<img width="840" alt="bannerd-dev" src="https://user-images.githubusercontent.com/77939696/156935651-4c35bdf6-604b-4782-9671-05ba3b6db5a0.png">
 
 <h1 align="center">Hi ✌🏿, I'm Bateko</h1>
 
