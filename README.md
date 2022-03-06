@@ -1,6 +1,3 @@
-![Screenshot 2022-03-05 at 18 24 20](https://user-images.githubusercontent.com/77939696/156900266-298ee971-2b18-43d4-bc2a-bc7eb8088598.png)
-
-
 <h1 align="center">Hi ✌🏿, I'm Bateko</h1>
 
 ## 👨🏾‍💻 I'm a passionate future Full Stack Developer based in France !
