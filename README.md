@@ -18,7 +18,7 @@
 [![Website](https://img.shields.io/badge/Follow%20%40BATEKO-CODE--&?style=for-the-badge&logo=codepen)](https://codepen.io/bateko-code)
 [![Twitter Follow](https://img.shields.io/twitter/follow/techie_teko?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftechie_teko&screen_name=techie_teko)
 [![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40bateko-francisco-dev&logo=linkedin&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fbateko-francisco-dev%2F)](https://www.linkedin.com/in/bateko-francisco-dev/)
-[![Instagram](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40techie_teko&logo=instagram&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fin%2Ftechie_teko%2F)](https://www.instagram.com/techie-teko/)
+[![Instagram](https://img.shields.io/twitter/url?color=blue&label=Follow%20%40techie_teko&logo=instagram&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fin%2Ftechie_teko%2F)](https://www.instagram.com/techie_teko/)
 
 
 <br />
