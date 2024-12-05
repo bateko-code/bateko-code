@@ -8,10 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bateko-code&label=Profile%20views&color=0e75b6&style=flat" alt="bateko-code" /> </p>
 
-- 🔭 I’m currently working on ** my Portfolio**!
- - 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on ** ML project**!
+ - 🥅 2025 Goals: Contribute more to Open Source projects
 - 🌱 I’m currently learning **Python , Node.js**
-- ⚡ Fun fact **i was an NBA assistant coach for the utah jazz**
+- ⚡ anything is possible with some line of code **
 
 
 ### Connect with me:
